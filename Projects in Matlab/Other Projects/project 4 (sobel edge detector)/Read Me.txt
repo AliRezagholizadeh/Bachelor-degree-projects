@@ -1,0 +1,6 @@
+This Program use specific method of Edge detection name "sobel" and apply this on the picture1 that there is in this folder,then , program shows 
+the results.
+
+Also, PDF file in this file dedicated more on some details.
+
+For running the code, you should run the Main.m by typing Main in Command Window.

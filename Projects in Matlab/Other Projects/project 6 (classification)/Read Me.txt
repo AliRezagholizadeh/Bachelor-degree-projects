@@ -1,0 +1,4 @@
+This Program produce two separate data in specific forms and then select training and test data from them. Then, program try to apply 
+some methods of classification on them and watch results and performances.  
+
+For running the code, you should run the Main.m by typing Main in Command Window.

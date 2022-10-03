@@ -1,0 +1,9 @@
+C:\Users\Fateme\Desktop\proj\mainform\bin\Release\mainform.exe.config
+C:\Users\Fateme\Desktop\proj\mainform\bin\Release\mainform.exe
+C:\Users\Fateme\Desktop\proj\mainform\bin\Release\mainform.pdb
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.csprojResolveAssemblyReference.cache
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.Properties.Resources.resources
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.csproj.GenerateResource.Cache
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.exe
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.pdb
+C:\Users\Fateme\Desktop\proj\mainform\obj\Release\mainform.Form1.resources

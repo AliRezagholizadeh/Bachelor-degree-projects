@@ -1,0 +1,2 @@
+This OCR project compare different methods of classification such as Parzen, K Nearest Neighbor and Bayes.
+Characters are stored in 'Data_hoda_full.mat'.
