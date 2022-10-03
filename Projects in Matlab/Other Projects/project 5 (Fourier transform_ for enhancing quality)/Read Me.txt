@@ -1,4 +1,0 @@
-Aim of this Program is enhancing picture by means of fourier transform. picture 2 is as input data and output is different picture
-by using different masks.
-
-For running the code, you should run the Main.m by typing Main in Command Window.

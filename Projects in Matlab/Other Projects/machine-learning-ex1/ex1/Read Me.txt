@@ -1,2 +1,0 @@
-This is a machime learning exercise on Linear Regression done for an online course in Coursra website.
-This course is given by one of the stanford university Profs.

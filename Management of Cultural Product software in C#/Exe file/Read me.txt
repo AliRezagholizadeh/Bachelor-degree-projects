@@ -1,7 +1,0 @@
-This project is a software which we implemented in my last semester.
-To see the code, go to the 'mainform' folder or run the 'mainform'. 
-
-The following files are done by me in our group and written in c sharp language programming: 
-'Book.cs', 'CD.cs', 'Cossette.cs', 'Documents.cs', 'ExecuteQuery.cs', 'Gallery.cs', 'Magazine.cs', 'NewsPaper.cs', 'Paper.cs', 'Program.cs',
-'Search.cs', 'Verifications.cs', 'Video.cs' 
-I had to manage the linking to database portion.
